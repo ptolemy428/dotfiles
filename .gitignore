@@ -1,0 +1,17 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Maven
+log/
+target/
+overlays/
+
+# Gradle
+.gradle
+/build
+
+#Java
+keystore.jks
