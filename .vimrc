@@ -17,3 +17,4 @@ set ruler
 set lines=50 columns=90
 
 set title
+set hlsearch
