@@ -13,8 +13,11 @@ overlays/
 .gradle
 /build
 
-#Java
+# Java
 keystore.jks
 
 # Python
 *.pyc
+
+# Bash
+nohup.out
