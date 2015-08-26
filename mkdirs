@@ -1,0 +1,6 @@
+mkdir -p $HOME/.ssh
+mkdir -p $HOME/development/applications/java
+mkdir -p $HOME/development/applications/maven
+mkdir -p $HOME/development/applications/idea
+mkdir -p $HOME/development/applications/golang
+

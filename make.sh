@@ -1,7 +1,9 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 dir=$HOME/dotfiles
 files=".vimrc .gitignore .gitconfig .vim"
+
+set -e
 
 #create sym links
 for file in $files; do
