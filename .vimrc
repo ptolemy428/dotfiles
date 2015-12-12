@@ -5,12 +5,17 @@ filetype plugin indent on
 au BufNewFile,BufRead *.wsdl set filetype=xml
 
 set nocompatible
+
 set t_Co=256
 
-set smartindent
 set tabstop=2
 set shiftwidth=2
 set expandtab
+
+set autoindent
+set smarttab
+
+set wrap
 set number
 set ruler
 
