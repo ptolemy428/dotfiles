@@ -1,2 +1,2 @@
 #!/bin/bash
-PS1='${debian_chroot:+($debian_chroot)}\u\w\$ '
+#PS1='${debian_chroot:+($debian_chroot)}\u\w\$ '
