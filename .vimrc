@@ -8,9 +8,10 @@ set nocompatible
 
 set t_Co=256
 
-set tabstop=2
-set shiftwidth=2
+set tabstop=4
+set shiftwidth=4
 set expandtab
+set smarttab
 
 set autoindent
 set smarttab
