@@ -1,8 +1,9 @@
 [user]
-	name = Larry Liang
-	email = ptolemy428@gmail.com
+    name = Larry Liang
+    email = ptolemy428@gmail.com
 [core]
-  excludesfile = ~/.gitignore
+    excludesfile = ~/.gitignore
+    editor = vim
 
 [alias]
 
