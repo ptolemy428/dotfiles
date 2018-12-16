@@ -13,6 +13,11 @@ for file in $files; do
   ln -s $dir/$file ~/$file
 done
 
+mkdir -p $HOME/usr/lib
+mkdir -p $HOME/src/go/gorepo
+mkdir -p $HOME/src/go/gocode
+mkdir -p $HOME/src/tmp
+
 #update vim modules
 cd $dir
 git submodule init
