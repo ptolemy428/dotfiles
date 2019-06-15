@@ -1,4 +1,4 @@
 mkdir -p $HOME/src
 mkdir -p $HOME/usr/lib
-mkdir -p $HOME/src/go/gorepo
 mkdir -p $HOME/src/go/gocode
+mkdir -p $HOME/tmp/gorepo
