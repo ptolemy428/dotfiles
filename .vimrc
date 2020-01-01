@@ -1,5 +1,6 @@
 call pathogen#infect()
 call pathogen#helptags()
+
 syntax on
 filetype plugin indent on
 au BufNewFile,BufRead *.wsdl set filetype=xml
@@ -22,3 +23,7 @@ set ruler
 
 set title
 set hlsearch
+
+" Search down into subfolders
+set path+=**
+set wildmenu
