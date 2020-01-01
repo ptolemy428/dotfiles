@@ -14,9 +14,9 @@ for file in $files; do
 done
 
 mkdir -p $HOME/usr/lib
-mkdir -p $HOME/src/go/gorepo
-mkdir -p $HOME/src/go/gocode
+mkdir -p $HOME/src/go
 mkdir -p $HOME/src/tmp
+mkdir -p $HOME/tmp/gorepo
 
 #update vim modules
 cd $dir
