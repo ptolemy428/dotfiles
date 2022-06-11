@@ -27,3 +27,5 @@ set hlsearch
 " Search down into subfolders
 set path+=**
 set wildmenu
+
+let g:go_fmt_command = "goimports"
