@@ -27,3 +27,6 @@ set hlsearch
 " Search down into subfolders
 set path+=**
 set wildmenu
+
+" yaml file type settings
+autocmd FileType yaml setlocal ts=2 sts=2 sw=2 expandtab
