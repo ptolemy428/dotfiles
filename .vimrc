@@ -30,3 +30,6 @@ set wildmenu
 
 " yaml file type settings
 autocmd FileType yaml setlocal ts=2 sts=2 sw=2 expandtab
+
+" golang settings
+let g:go_fmt_command = "goimports"

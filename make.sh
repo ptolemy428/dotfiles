@@ -15,6 +15,7 @@ done
 
 mkdir -p $HOME/usr/lib
 mkdir -p $HOME/src/go
+mkdir -p $HOME/src/python
 mkdir -p $HOME/src/tmp
 mkdir -p $HOME/tmp/gorepo
 
